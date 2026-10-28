@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "packs": [
+    {
+      "id": "moscow-kirzhach",
+      "name": "Москва и область + Киржач",
+      "description": "2 региона, 13 станций, 11 логотипов. Исходный набор приложения.",
+      "file": "moscow-kirzhach-v1.zip",
+      "sha256": "d1c0110974a675934b218f6fe6dfe048ae0fe4c9438e2cf80b69ae9b067e67d0"
+    }
+  ]
+}

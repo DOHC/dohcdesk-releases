@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "regions": [
+    {
+      "id": "moscow",
+      "name": "Москва и область",
+      "latitude": 55.819361,
+      "longitude": 37.612132,
+      "radius_km": 120,
+      "sort": 1,
+      "stations": [
+        {
+          "id": "moscow-001",
+          "name": "Наше Радио",
+          "frequency_mhz": 101.8,
+          "logo": "nashe.jpg",
+          "favorite": true
+        },
+        {
+          "id": "moscow-002",
+          "name": "Comedy Radio",
+          "frequency_mhz": 102.5,
+          "logo": "logo-comedy-radio.png",
+          "favorite": true
+        },
+        {
+          "id": "moscow-003",
+          "name": "Радио ЭНЕРДЖИ (NRG)",
+          "frequency_mhz": 104.2,
+          "logo": "logo-radio-nrj.jpg",
+          "favorite": true
+        },
+        {
+          "id": "moscow-004",
+          "name": "Русское Радио",
+          "frequency_mhz": 105.7,
+          "logo": "logo-russkoe-radio.png",
+          "favorite": true
+        },
+        {
+          "id": "moscow-005",
+          "name": "Юмор FM",
+          "frequency_mhz": 88.7,
+          "logo": "logo-yumor-fm.jpg",
+          "favorite": true
+        },
+        {
+          "id": "moscow-006",
+          "name": "Business FM",
+          "frequency_mhz": 87.5,
+          "logo": "logo-business-fm.png",
+          "favorite": true
+        },
+        {
+          "id": "moscow-007",
+          "name": "Like FM",
+          "frequency_mhz": 87.9,
+          "logo": "logo-like-fm.png",
+          "favorite": true
+        },
+        {
+          "id": "moscow-008",
+          "name": "Авторадио",
+          "frequency_mhz": 90.3,
+          "logo": "logo-avtoradio.png",
+          "favorite": true
+        },
+        {
+          "id": "moscow-009",
+          "name": "Радио Дача",
+          "frequency_mhz": 92.4,
+          "logo": "logo-radio-dacha.png",
+          "favorite": true
+        }
+      ]
+    },
+    {
+      "id": "kirzhach",
+      "name": "Киржач",
+      "latitude": 56.161855,
+      "longitude": 38.869516,
+      "radius_km": 40,
+      "sort": 5,
+      "stations": [
+        {
+          "id": "kirzhach-001",
+          "name": "Наше радио",
+          "frequency_mhz": 89.7,
+          "logo": "nashe.jpg",
+          "favorite": true
+        },
+        {
+          "id": "kirzhach-002",
+          "name": "Русское радио",
+          "frequency_mhz": 97.0,
+          "logo": "logo-russkoe-radio.png",
+          "favorite": true
+        },
+        {
+          "id": "kirzhach-003",
+          "name": "Дорожное радио",
+          "frequency_mhz": 88.1,
+          "logo": "logo-dorozhnoe-radio.png",
+          "favorite": true
+        },
+        {
+          "id": "kirzhach-004",
+          "name": "Европа Плюс",
+          "frequency_mhz": 91.4,
+          "logo": "logo-europa-plus.png",
+          "favorite": true
+        }
+      ]
+    }
+  ]
+}
