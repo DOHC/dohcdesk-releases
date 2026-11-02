@@ -1,19 +1,23 @@
 {
-  "version": 1,
-  "packs": [
+  "regions" : [
     {
-      "id": "moscow-kirzhach",
-      "name": "Москва и область + Киржач",
-      "description": "2 региона, 13 станций, 11 логотипов. Исходный набор приложения.",
-      "file": "moscow-kirzhach-v1.zip",
-      "sha256": "d1c0110974a675934b218f6fe6dfe048ae0fe4c9438e2cf80b69ae9b067e67d0"
+      "description" : "",
+      "file" : "kirzhach-r1.zip",
+      "id" : "kirzhach",
+      "name" : "Киржач",
+      "revision" : 1,
+      "sha256" : "732cf0ff358c37cf3b0ba82489e21513dc5af2a437baf3c6b53fc70ec34a3f4c",
+      "size" : 4125166
     },
     {
-      "id": "moscow-kirzhach-v2",
-      "name": "Москва и область + Киржач v.2",
-      "description": "2 региона, 13 станций, 11 логотипов. Исходный набор приложения. Новые логотипы",
-      "file": "moscow-kirzhach-v2.zip",
-      "sha256": "607a8fce7abe056f1d65cc570e4cfac3908f83077dd8ad8df1fc6e6b76b5b8e2"
+      "description" : "",
+      "file" : "moscow-r1.zip",
+      "id" : "moscow",
+      "name" : "Москва и область",
+      "revision" : 1,
+      "sha256" : "143674d02dff663d6c0752406970988f8e38f8dcdc2304d165666508a7719da9",
+      "size" : 8774191
     }
-  ]
+  ],
+  "version" : 2
 }
